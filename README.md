@@ -131,7 +131,7 @@ npm run typecheck   # TypeScript type checking
 
 ## 🌍 Deployment
 
-MediQueue is deployed on **Vercel**: [mediqueue-beryl-one.vercel.app](https://mediqueue-beryl-one.vercel.app/)
+MediQueue is deployed on **Vercel**: https://mediqueuecsp.vercel.app/
 
 The included `vercel.json` handles SPA routing rewrites so client-side routes resolve correctly on refresh/direct navigation.
 

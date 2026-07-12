@@ -4,7 +4,7 @@
 
 **Smart Healthcare — Your Health, Our Priority. Smarter Care, Better Health.**
 
-🔗 **Live Demo:** [https://mediqueue-beryl-one.vercel.app/](https://mediqueue-beryl-one.vercel.app/)
+🔗 **Live Demo:** https://mediqueuecsp.vercel.app/
 
 MediQueue is an AI-powered healthcare platform built for smarter diagnosis, seamless appointment booking, and better patient care. It connects patients, doctors, and hospital admins in a single role-based system with real-time scheduling, medical report management, and an AI symptom checker.
 
